@@ -82,8 +82,12 @@ In a separate terminal:
 cd frontend
 npm install
 npm run dev 
-npm audit fix --force (if any vulnerabilities isuue)
 ```
+```bash
+# in a separate terminal, only if needed:
+npm audit fix --force   # force-fix security issues
+```
+
 - **Frontend App:** `http://localhost:5173`
 
 ---
