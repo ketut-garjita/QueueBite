@@ -45,25 +45,6 @@ aidevtools-module2/
 
 ## Quick Start Guide
 
-### 0. Pre-requisite
-Create .venv at $HOME project (if not created yet)
-
-```bash
-uv venv
-```
-
-Activate .venv
-
-```bash
-source .venv/bin/activate
-```
-
-Check python
-
-```bash
-which python
-```
-
 ### 1. Run Backend (Python with `uv`)
 
 ```bash
