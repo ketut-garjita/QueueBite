@@ -71,6 +71,15 @@ npm audit fix --force   # force-fix security issues
 
 - **Frontend App:** `http://localhost:5173`
 
+### 3.Run Test
+
+In a separate terminal:
+
+```bash
+cd backend
+uv run pytest -v
+```
+
 ---
 
 ## Key Features & Walkthrough
