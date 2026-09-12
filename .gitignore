@@ -1,0 +1,26 @@
+# Secrets & Environment
+.env
+*.env
+*-credentials.json
+
+# Video
+*.mp4
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
