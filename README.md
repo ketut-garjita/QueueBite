@@ -71,7 +71,7 @@ npm audit fix --force   # force-fix security issues
 
 - **Frontend App:** `http://localhost:5173`
 
-### 3.Run Test
+### 3. Run Test
 
 In a separate terminal:
 
