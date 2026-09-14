@@ -93,6 +93,7 @@
 
 ```
 aidevtools-module2/
+├── README.md                      # Quick Start Guide & Key Features
 ├── PROJECT_SCOPE.md               # Scoping & architecture documentation
 ├── backend/                       # Python backend managed by uv
 │   ├── pyproject.toml             # uv project dependencies

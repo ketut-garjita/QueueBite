@@ -8,6 +8,7 @@
 
 ```
 aidevtools-module2/
+├── README.md                  # Quick Start Guide & Key Features
 ├── PROJECT_SCOPE.md           # Project scoping & architectural specifications
 ├── backend/                   # Python backend managed by uv
 │   ├── pyproject.toml         # uv dependencies (FastAPI, SQLModel, Uvicorn, httpx)
@@ -81,6 +82,18 @@ uv run pytest -v
 ```
 
 ---
+
+## Backend Screenshot
+
+![QueueBite-API](assets/QueueBiteAPI.png)
+
+---
+
+## Frontend Screenshot
+
+ ![QueueBite Frontend](assets/QueueBite-Frontend.png)
+
+ ---
 
 ## Key Features & Walkthrough
 
